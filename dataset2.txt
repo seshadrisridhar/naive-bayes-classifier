@@ -1,0 +1,40 @@
+25	MALE	SINGLE	YOUNGER THAN 30	Completed college/CEGEP	No
+80	MALE	SINGLE	YOUNGER THAN 30	Some college/CEGEP	Yes
+131	MALE	SINGLE	YOUNGER THAN 30	Some high school	Yes
+181	MALE	SINGLE	YOUNGER THAN 30	Completed undergraduate university (Bachelors degree)	Yes
+169	MALE	MARRIED	YOUNGER THAN 30	Completed undergraduate university (Bachelors degree)	Yes
+199	MALE	MARRIED	YOUNGER THAN 30	Completed undergraduate university (Bachelors degree)	Yes
+528	MALE	MARRIED	YOUNGER THAN 30	Completed undergraduate university (Bachelors degree)	Yes
+4541	MALE	MARRIED	YOUNGER THAN 30	Completed undergraduate university (Bachelors degree)	No
+5356	MALE	MARRIED	YOUNGER THAN 30	Completed undergraduate university (Bachelors degree)	Yes
+35	MALE	MARRIED	30 OR OLDER	Completed high school	No
+71	MALE	MARRIED	30 OR OLDER	Completed undergraduate university (Bachelors degree)	Yes
+154	MALE	MARRIED	30 OR OLDER	Completed college/CEGEP	Yes
+192	MALE	MARRIED	30 OR OLDER	Completed college/CEGEP	No
+202	MALE	MARRIED	30 OR OLDER	Completed undergraduate university (Bachelors degree)	Yes
+30	MALE	SINGLE	30 OR OLDER	Completed college/CEGEP	Yes
+58	MALE	SINGLE	30 OR OLDER	Some college/CEGEP	Yes
+105	MALE	SINGLE	30 OR OLDER	Completed college/CEGEP	Yes
+136	MALE	SINGLE	30 OR OLDER	Completed graduate or post-graduate studies	No
+158	MALE	SINGLE	30 OR OLDER	Some graduate or post-graduate studies	Yes
+206	FEMALE	SINGLE	YOUNGER THAN 30	Completed graduate or post-graduate studies	Yes
+686	FEMALE	SINGLE	YOUNGER THAN 30	Some undergraduate university (Bachelors degree)	Yes
+726	FEMALE	SINGLE	YOUNGER THAN 30	Completed undergraduate university (Bachelors degree)	Yes
+958	FEMALE	SINGLE	YOUNGER THAN 30	Completed high school	Yes
+1063	FEMALE	SINGLE	YOUNGER THAN 30	Completed high school	No
+67	FEMALE	SINGLE	30 OR OLDER	Some graduate or post-graduate studies	Yes
+94	FEMALE	SINGLE	30 OR OLDER	Completed college/CEGEP	No
+119	FEMALE	SINGLE	30 OR OLDER	Completed graduate or post-graduate studies	Yes
+276	FEMALE	SINGLE	30 OR OLDER	Some elementary	Yes
+391	FEMALE	SINGLE	30 OR OLDER	Completed undergraduate university (Bachelors degree)	Yes
+101	FEMALE	MARRIED	30 OR OLDER	Completed graduate or post-graduate studies	Yes
+183	FEMALE	MARRIED	30 OR OLDER	Completed college/CEGEP	Yes
+326	FEMALE	MARRIED	30 OR OLDER	Completed undergraduate university (Bachelors degree)	Yes
+403	FEMALE	MARRIED	30 OR OLDER	Completed graduate or post-graduate studies	Yes
+410	FEMALE	MARRIED	30 OR OLDER	Completed college/CEGEP	Yes
+95	FEMALE	MARRIED	YOUNGER THAN 30	Completed graduate or post-graduate studies	Yes
+1570	FEMALE	MARRIED	YOUNGER THAN 30	Some college/CEGEP	Yes
+2349	FEMALE	MARRIED	YOUNGER THAN 30	Completed college/CEGEP	Yes
+2679	FEMALE	MARRIED	YOUNGER THAN 30	Completed college/CEGEP	Yes
+3842	FEMALE	MARRIED	YOUNGER THAN 30	Completed high school	Yes
+5349	MALE	SINGLE	YOUNGER THAN 30	Completed undergraduate university (Bachelors degree)	Yes
